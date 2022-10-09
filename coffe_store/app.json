@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "Cotizador Prestamos LA181955",
+    "slug": "cotizador-prestamos-LA181955",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "prestamos.LA181955"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
