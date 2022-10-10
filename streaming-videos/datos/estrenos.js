@@ -1,0 +1,58 @@
+const estrenos = [
+    {
+        id: 1,
+        titulo: 'Deadpool',
+        descripcion: 'Un exmercenario quien, tras haber sido sometido a un cruel experimento, adquiere el superpoder de sanar rápidamente y pretende vengarse del hombre que destrozó su vida.',
+        tipo: 'Película',
+        categoria: 'Acción',
+        fecha: '15/10/2022',
+        videoId: '0JnRdfiUMa8',
+    },
+    {
+        id: 2,
+        titulo: 'Hotel Transylvania: transformanía',
+        descripcion: 'El nuevo y misterioso invento de Van Helsing transforma a Drac y sus amigos en humanos, y a Johnny en un monstruo. Con sus nuevos cuerpos, Drac y la manada deben encontrar la manera de revertirlo antes de que se vuelva permanente.',
+        tipo: 'Película',
+        categoria: 'Comedia',
+        fecha: '15/10/2022',
+        videoId: 'J5Xp3Flbj9k',
+    },
+    {
+        id: 3,
+        titulo: 'Cuestión de tiempo',
+        descripcion: 'Cuando Tim Lake cumple 21 años, su padre le dice un secreto: los hombres de su familia pueden viajar por el tiempo. A pesar de que él no puede cambiar la historia, Tim decide mejorar su vida buscando una novia. Él conoce a Mary, se enamora y finalmente se gana su corazón con los viajes en el tiempo y un poco de astucia. Sin embargo, mientras su inusual vida progresa, Tim descubre que su habilidad especial no puede protegerlos de los problemas diarios de la vida.',
+        tipo: 'Película',
+        categoria: 'Romance',
+        fecha: '18/10/2022',
+        videoId: '5DQAZtFHLEA',
+    },
+    {
+        id: 4,
+        titulo: 'Cars: Aventuras en el camino',
+        descripcion: 'Rayo McQueen y su mejor amigo Mater se dirigen hacia el este desde Radiator Springs en un viaje por carretera a través del país para encontrarse con la hermana de Mater.',
+        tipo: 'Serie',
+        categoria: 'Comedia',
+        fecha: '20/10/2022',
+        videoId: 'q3aHK4Vfqak',
+    },
+    {
+        id: 5,
+        titulo: 'Sherlock',
+        descripcion: 'En esta ocasión, Benedict Cumberbatch (\'Caballo de batalla\', \'El Hobbit\') interpreta el papel de Sherlock, que gracias a su perspicacia, su poder deductivo y su meticulosa observación se ha ganado el respeto del departamento de policía y trabaja junto a ellos como una especie de freelance que les asiste en diferentes investigaciones policiales.',
+        tipo: 'Serie',
+        categoria: 'Aventura',
+        fecha: '21/10/2022',
+        videoId: 'OyWxUjiSQqA',
+    },
+    {
+        id: 6,
+        titulo: 'The Witcher',
+        descripcion: 'El brujo Geralt, un cazador de monstruos, trata de encontrar su lugar en un mundo en el que las personas suelen ser más malvadas que las bestias.',
+        tipo: 'Serie',
+        categoria: 'Fantasía',
+        fecha: '25/10/2022',
+        videoId: 'ETY44yszyNc',
+    },
+];
+
+export default estrenos;
